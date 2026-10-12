@@ -1,6 +1,6 @@
 # CTTL becerisi
 
-English: [README.md](README.md).
+English: [README.en.md](README.en.md).
 
 Bu beceri yoğun Türkçeyi Kontrollü Teknik Türkçeye (CTTL) dönüştürür.
 
