@@ -1,6 +1,6 @@
-# tr-ste-skill
+# tr-cttl-skill
 
-`tr-ste-skill` provides a controlled, deterministic set of rules and prompts for AI coding agents and documentation generators to produce standardized Turkish Simplified Technical Language (TSTL).
+`tr-cttl-skill` provides a controlled, deterministic set of rules and prompts for AI coding agents and documentation generators to produce standardized Controlled Turkish Technical Language (CTTL).
 
 It enforces controlled vocabulary, unambiguous grammatical structures, and strict state representation rules to ensure precise, clear, and maintainable software architecture docs, system specifications, and API documentation in Turkish.
 
